@@ -1,0 +1,50 @@
+body {
+    font-family: Helvetica, Verdana, Arial, Tahoma, sans-serif;
+}
+
+h1 {
+    color: navy;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+ul{
+    color: teal;
+    font-weight: 200;
+}
+
+a:link{
+    color:teal;
+    text-decoration: none
+}
+
+a:visited{
+    color:teal;
+    text-decoration: none
+}
+
+a:hover{
+    color:teal;
+    font-weight: bold
+}
+
+a:active{
+    color:teal
+}
+
+
+#title-box{
+    padding: 5px;
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgba(172, 205, 255, 0.726);
+    text-align: center;
+}
+
+
+#bullet-box{
+    padding: 10px;
+    background-color: rgb(213, 174, 228);
+    width:fit-content;
+}
